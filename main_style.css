@@ -4,12 +4,15 @@
 
 body {
     background-image: url('athena_nike.jpg');
+    background-repeat: no-repeat;
+    background-size: 100%; 
 }
 
 .mainhead {
     text-align: center;
-    color: white;
+    color: wheat;
     font-family: Verdana;
+    font-size: 22px;
 }
 
 .maintask {
