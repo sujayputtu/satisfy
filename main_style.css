@@ -11,7 +11,7 @@ body {
 .mainhead {
     text-align: center;
     color: wheat;
-    font-family: Verdana;
+    font-family: 'audrey';
     font-size: 22px;
 }
 
@@ -52,4 +52,13 @@ body {
     padding-top: 5%;
     padding-bottom: 5%;
     padding-left: 30%;
+}
+
+.quote 
+{
+    color: rgb(0, 0, 0);
+    font-family: 'Trebuchet MS';
+    font-size: 14px;
+    padding-top: 2%;
+    padding-left: 40%;
 }
